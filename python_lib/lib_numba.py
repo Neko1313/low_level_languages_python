@@ -1,33 +1,36 @@
+import math
 from numba import jit
-
 from src import measure_performance
 
 
-@jit(nopython=True)  # type: ignore
-def sieve_of_eratosthenes_up_to(limit: int) -> list[int]:
-    primes = [True] * (limit + 1)
-    primes[0], primes[1] = False, False
-
-    for i in range(2, int(limit**0.5) + 1):
-        if primes[i]:
-            for j in range(i * i, limit + 1, i):
-                primes[j] = False
-
-    result = []
-    for i in range(limit + 1):
-        if primes[i]:
-            result.append(i)
-
-    return result
-
-
-@jit(nopython=True)  # type: ignore
-def primes_in_range(a: int, b: int) -> list[int]:
-    primes_up_to_b = sieve_of_eratosthenes_up_to(b)
-    return [p for p in primes_up_to_b if p >= a]
-
-
 @measure_performance
-def primes_in_range_numba(a: int, b: int) -> None:
-    print(primes_in_range(a, b))
-    return None
+@jit(nopython=True)  # type: ignore
+def sieve_of_atkin_numba(limit: int) -> list[int]:
+    sieve = [False] * (limit + 1)
+
+    for x in range(1, int(math.sqrt(limit)) + 1):
+        for y in range(1, int(math.sqrt(limit)) + 1):
+            n = 4 * x**2 + y**2
+            if n <= limit and (n % 12 == 1 or n % 12 == 5):
+                sieve[n] = not sieve[n]
+
+            n = 3 * x**2 + y**2
+            if n <= limit and n % 12 == 7:
+                sieve[n] = not sieve[n]
+
+            n = 3 * x**2 - y**2
+            if x > y and n <= limit and n % 12 == 11:
+                sieve[n] = not sieve[n]
+
+    for r in range(5, int(math.sqrt(limit)) + 1):
+        if sieve[r]:
+            for multiple in range(r**2, limit + 1, r**2):
+                sieve[multiple] = False
+
+    # List of primes
+    primes = [2, 3]
+    for i in range(5, limit + 1):
+        if sieve[i]:
+            primes.append(i)
+
+    return primes

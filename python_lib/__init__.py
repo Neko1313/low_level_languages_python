@@ -1,5 +1,4 @@
-from .lib_python import primes_in_range_python
-from .lib_numpy import primes_in_range_numpy
-from .lib_numba import primes_in_range_numba
+from .lib_numba import sieve_of_atkin_numba
+from .lib_python import sieve_of_atkin_python
 
-__all__ = ["primes_in_range_numpy", "primes_in_range_numba", "primes_in_range_python"]
+__all__ = ["sieve_of_atkin_numba", "sieve_of_atkin_python"]

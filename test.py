@@ -1,5 +1,5 @@
-from src import run
+from python_lib import sieve_of_atkin_numba, sieve_of_atkin_python
 
-a = 10
-b = 50
-run(a, b)
+n = 10_000_000
+sieve_of_atkin_numba(n)
+sieve_of_atkin_python(n)
