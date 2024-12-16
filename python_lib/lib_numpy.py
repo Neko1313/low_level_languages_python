@@ -3,6 +3,7 @@ import numpy as np
 
 from src import measure_performance
 
+
 @functools.lru_cache(None)
 def sieve_of_eratosthenes_up_to(limit: int) -> np.ndarray:
     primes = np.ones(limit + 1, dtype=bool)
@@ -14,9 +15,11 @@ def sieve_of_eratosthenes_up_to(limit: int) -> np.ndarray:
 
     return primes
 
+
 def primes_in_range(a: int, b: int) -> np.ndarray:
     primes_up_to_b = sieve_of_eratosthenes_up_to(b)
     return list(np.nonzero(primes_up_to_b[a:])[0] + a)
+
 
 @measure_performance
 def primes_in_range_numpy(a: int, b: int) -> None:

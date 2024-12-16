@@ -15,8 +15,6 @@ numba = "^0.60.0"
 pre-commit = "^4.0.1"
 pytest = "^8.3.4"
 pytest-cov = "^6.0.0"
-setuptools = "^75.6.0"
-cython = "^3.0.11"
 
 
 [build-system]
@@ -36,13 +34,15 @@ disallow_untyped_defs = true
 
 [tool.ruff]
 line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
 select = ["E", "F", "W"]
 ignore = ["E501", "F401"]
-target-version = "py312"
 fixable = ["E", "F"]
 unfixable = ["W292"]
 
-[tool.ruff.per-file-ignores]
+[tool.ruff.lint.per-file-ignores]
 "*/*/__init__.py" = ["ALL"]
 
 

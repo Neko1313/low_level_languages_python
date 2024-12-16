@@ -2,7 +2,8 @@ from numba import jit
 
 from src import measure_performance
 
-@jit(nopython=True) # type: ignore
+
+@jit(nopython=True)  # type: ignore
 def sieve_of_eratosthenes_up_to(limit: int) -> list[int]:
     primes = [True] * (limit + 1)
     primes[0], primes[1] = False, False
@@ -19,10 +20,12 @@ def sieve_of_eratosthenes_up_to(limit: int) -> list[int]:
 
     return result
 
-@jit(nopython=True) # type: ignore
+
+@jit(nopython=True)  # type: ignore
 def primes_in_range(a: int, b: int) -> list[int]:
     primes_up_to_b = sieve_of_eratosthenes_up_to(b)
     return [p for p in primes_up_to_b if p >= a]
+
 
 @measure_performance
 def primes_in_range_numba(a: int, b: int) -> None:

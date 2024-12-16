@@ -4,7 +4,8 @@ from typing import Callable, TypeVar, Any
 from loguru import logger
 from functools import wraps
 
-T = TypeVar('T', bound=Callable[..., Any])
+T = TypeVar("T", bound=Callable[..., Any])
+
 
 def measure_performance(func: T) -> T:
     @wraps(func)
@@ -22,8 +23,13 @@ def measure_performance(func: T) -> T:
         execution_time = end_time - start_time
         memory_used = current / 1024
         peak_memory = peak / 1024
-        logger.info(f"Function {func.__name__} executed in {execution_time:.4f} seconds")
-        logger.info(f"Memory used: {memory_used:.2f} KB, Peak memory: {peak_memory:.2f} KB")
+        logger.info(
+            f"Function {func.__name__} executed in {execution_time:.4f} seconds"
+        )
+        logger.info(
+            f"Memory used: {memory_used:.2f} KB, Peak memory: {peak_memory:.2f} KB"
+        )
 
-        return result # type: ignore
+        return result  # type: ignore
+
     return wrapper  # type: ignore
