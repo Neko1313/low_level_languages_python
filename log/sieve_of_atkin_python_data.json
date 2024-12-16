@@ -1,0 +1,1563 @@
+[
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.0494687557220459,
+        "memory_used": 38.3984375,
+        "peak_memory": 58.20703125,
+        "len": 1229
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.10208415985107422,
+        "memory_used": 70.65625,
+        "peak_memory": 108.30078125,
+        "len": 2262
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.15787148475646973,
+        "memory_used": 101.3828125,
+        "peak_memory": 156.47265625,
+        "len": 3245
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.20847320556640625,
+        "memory_used": 131.3046875,
+        "peak_memory": 203.64453125,
+        "len": 4203
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.25543212890625,
+        "memory_used": 160.3828125,
+        "peak_memory": 249.75390625,
+        "len": 5133
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.31101131439208984,
+        "memory_used": 189.2578125,
+        "peak_memory": 295.61328125,
+        "len": 6057
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.3615882396697998,
+        "memory_used": 216.703125,
+        "peak_memory": 339.78515625,
+        "len": 6936
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.41083288192749023,
+        "memory_used": 244.8828125,
+        "peak_memory": 384.76953125,
+        "len": 7837
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.4791140556335449,
+        "memory_used": 272.28125,
+        "peak_memory": 428.78515625,
+        "len": 8714
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.5244688987731934,
+        "memory_used": 299.703125,
+        "peak_memory": 472.83203125,
+        "len": 9592
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.6301422119140625,
+        "memory_used": 326.6328125,
+        "peak_memory": 516.25390625,
+        "len": 10453
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.6344153881072998,
+        "memory_used": 353.1328125,
+        "peak_memory": 559.14453125,
+        "len": 11301
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.6897141933441162,
+        "memory_used": 379.9296875,
+        "peak_memory": 602.41015625,
+        "len": 12159
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.7459168434143066,
+        "memory_used": 406.53125,
+        "peak_memory": 645.42578125,
+        "len": 13010
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.7924790382385254,
+        "memory_used": 432.7578125,
+        "peak_memory": 687.97265625,
+        "len": 13849
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.8498327732086182,
+        "memory_used": 458.828125,
+        "peak_memory": 730.33203125,
+        "len": 14684
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.8999152183532715,
+        "memory_used": 484.2578125,
+        "peak_memory": 771.87890625,
+        "len": 15497
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 0.952202558517456,
+        "memory_used": 510.6796875,
+        "peak_memory": 814.67578125,
+        "len": 16343
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.0435678958892822,
+        "memory_used": 536.53125,
+        "peak_memory": 856.75390625,
+        "len": 17170
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.0966432094573975,
+        "memory_used": 561.953125,
+        "peak_memory": 898.30078125,
+        "len": 17984
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.141406774520874,
+        "memory_used": 587.6796875,
+        "peak_memory": 940.22265625,
+        "len": 18807
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.1755211353302002,
+        "memory_used": 613.03125,
+        "peak_memory": 981.67578125,
+        "len": 19618
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.2404570579528809,
+        "memory_used": 638.6328125,
+        "peak_memory": 1023.44140625,
+        "len": 20437
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.293524980545044,
+        "memory_used": 663.1328125,
+        "peak_memory": 1063.83203125,
+        "len": 21221
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.3782362937927246,
+        "memory_used": 688.828125,
+        "peak_memory": 1105.72265625,
+        "len": 22044
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.4218480587005615,
+        "memory_used": 713.6328125,
+        "peak_memory": 1146.48828125,
+        "len": 22837
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.4566149711608887,
+        "memory_used": 738.8046875,
+        "peak_memory": 1187.72265625,
+        "len": 23643
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.5256128311157227,
+        "memory_used": 763.5078125,
+        "peak_memory": 1228.36328125,
+        "len": 24433
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.606412410736084,
+        "memory_used": 788.203125,
+        "peak_memory": 1269.00390625,
+        "len": 25224
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.6369988918304443,
+        "memory_used": 812.3828125,
+        "peak_memory": 1308.98828125,
+        "len": 25997
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.825730800628662,
+        "memory_used": 837.453125,
+        "peak_memory": 1350.09765625,
+        "len": 26800
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.8220815658569336,
+        "memory_used": 862.703125,
+        "peak_memory": 1391.42578125,
+        "len": 27608
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.7897017002105713,
+        "memory_used": 887.578125,
+        "peak_memory": 1432.28515625,
+        "len": 28404
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.8539814949035645,
+        "memory_used": 911.90625,
+        "peak_memory": 1472.45703125,
+        "len": 29182
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.9888570308685303,
+        "memory_used": 936.7578125,
+        "peak_memory": 1513.28515625,
+        "len": 29977
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 1.9846632480621338,
+        "memory_used": 961.1328125,
+        "peak_memory": 1553.51953125,
+        "len": 30757
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.043774366378784,
+        "memory_used": 985.03125,
+        "peak_memory": 1593.16015625,
+        "len": 31522
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.1603894233703613,
+        "memory_used": 1009.328125,
+        "peak_memory": 1633.30078125,
+        "len": 32300
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.1514992713928223,
+        "memory_used": 1033.328125,
+        "peak_memory": 1673.06640625,
+        "len": 33068
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.1755454540252686,
+        "memory_used": 1058.078125,
+        "peak_memory": 1713.76953125,
+        "len": 33860
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.2258424758911133,
+        "memory_used": 1081.65625,
+        "peak_memory": 1753.00390625,
+        "len": 34614
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.3003909587860107,
+        "memory_used": 1105.9296875,
+        "peak_memory": 1793.11328125,
+        "len": 35391
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.3571579456329346,
+        "memory_used": 1130.03125,
+        "peak_memory": 1833.00390625,
+        "len": 36162
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.428698778152466,
+        "memory_used": 1154.3828125,
+        "peak_memory": 1873.20703125,
+        "len": 36941
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.482530117034912,
+        "memory_used": 1178.3046875,
+        "peak_memory": 1912.87890625,
+        "len": 37707
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.538292169570923,
+        "memory_used": 1201.78125,
+        "peak_memory": 1951.98828125,
+        "len": 38458
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.618864059448242,
+        "memory_used": 1225.6796875,
+        "peak_memory": 1991.62890625,
+        "len": 39223
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.6623520851135254,
+        "memory_used": 1250.1328125,
+        "peak_memory": 2031.95703125,
+        "len": 40005
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.81803035736084,
+        "memory_used": 1273.9296875,
+        "peak_memory": 2071.47265625,
+        "len": 40767
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.762907028198242,
+        "memory_used": 1298.03125,
+        "peak_memory": 2111.36328125,
+        "len": 41538
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.8343465328216553,
+        "memory_used": 1321.5546875,
+        "peak_memory": 2150.53515625,
+        "len": 42291
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.8850762844085693,
+        "memory_used": 1345.6328125,
+        "peak_memory": 2190.39453125,
+        "len": 43061
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.952923536300659,
+        "memory_used": 1369.5078125,
+        "peak_memory": 2230.00390625,
+        "len": 43825
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 2.983849287033081,
+        "memory_used": 1392.828125,
+        "peak_memory": 2268.92578125,
+        "len": 44572
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.0698723793029785,
+        "memory_used": 1416.28125,
+        "peak_memory": 2308.00390625,
+        "len": 45322
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.1260247230529785,
+        "memory_used": 1439.703125,
+        "peak_memory": 2347.05078125,
+        "len": 46072
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.3236746788024902,
+        "memory_used": 1463.078125,
+        "peak_memory": 2386.03515625,
+        "len": 46820
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.1841795444488525,
+        "memory_used": 1487.1328125,
+        "peak_memory": 2425.86328125,
+        "len": 47589
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.303596258163452,
+        "memory_used": 1510.9296875,
+        "peak_memory": 2465.37890625,
+        "len": 48351
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.348346710205078,
+        "memory_used": 1534.28125,
+        "peak_memory": 2504.33203125,
+        "len": 49098
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.396083116531372,
+        "memory_used": 1558.1328125,
+        "peak_memory": 2543.91015625,
+        "len": 49861
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.4074065685272217,
+        "memory_used": 1581.578125,
+        "peak_memory": 2582.98828125,
+        "len": 50612
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.510511636734009,
+        "memory_used": 1604.3828125,
+        "peak_memory": 2621.25390625,
+        "len": 51341
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.514582633972168,
+        "memory_used": 1627.28125,
+        "peak_memory": 2659.64453125,
+        "len": 52074
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.547316312789917,
+        "memory_used": 1650.9296875,
+        "peak_memory": 2698.97265625,
+        "len": 52831
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.6033339500427246,
+        "memory_used": 1673.8828125,
+        "peak_memory": 2737.42578125,
+        "len": 53565
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.649081230163574,
+        "memory_used": 1697.15625,
+        "peak_memory": 2776.28515625,
+        "len": 54310
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.8139564990997314,
+        "memory_used": 1720.6796875,
+        "peak_memory": 2815.45703125,
+        "len": 55063
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.841573476791382,
+        "memory_used": 1744.1796875,
+        "peak_memory": 2854.59765625,
+        "len": 55815
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.91975736618042,
+        "memory_used": 1766.953125,
+        "peak_memory": 2892.83203125,
+        "len": 56544
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.013149261474609,
+        "memory_used": 1790.78125,
+        "peak_memory": 2932.37890625,
+        "len": 57306
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 3.959623336791992,
+        "memory_used": 1813.3828125,
+        "peak_memory": 2970.39453125,
+        "len": 58029
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.03006386756897,
+        "memory_used": 1837.1328125,
+        "peak_memory": 3009.84765625,
+        "len": 58789
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.328025579452515,
+        "memory_used": 1860.3046875,
+        "peak_memory": 3048.58203125,
+        "len": 59531
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.33147668838501,
+        "memory_used": 1882.40625,
+        "peak_memory": 3085.97265625,
+        "len": 60238
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.266567707061768,
+        "memory_used": 1905.53125,
+        "peak_memory": 3124.64453125,
+        "len": 60978
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.465556383132935,
+        "memory_used": 1929.1328125,
+        "peak_memory": 3163.91015625,
+        "len": 61733
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.377479553222656,
+        "memory_used": 1952.078125,
+        "peak_memory": 3202.36328125,
+        "len": 62468
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.3866870403289795,
+        "memory_used": 1975.15625,
+        "peak_memory": 3240.97265625,
+        "len": 63206
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.426553726196289,
+        "memory_used": 1998.4296875,
+        "peak_memory": 3279.83203125,
+        "len": 63951
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.524420261383057,
+        "memory_used": 2021.3046875,
+        "peak_memory": 3318.19140625,
+        "len": 64683
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.499441385269165,
+        "memory_used": 2044.203125,
+        "peak_memory": 3356.58203125,
+        "len": 65416
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.665379762649536,
+        "memory_used": 2067.5078125,
+        "peak_memory": 3395.47265625,
+        "len": 66161
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.6885600090026855,
+        "memory_used": 2090.28125,
+        "peak_memory": 3433.70703125,
+        "len": 66890
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.802448987960815,
+        "memory_used": 2113.0078125,
+        "peak_memory": 3471.87890625,
+        "len": 67617
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.792866230010986,
+        "memory_used": 2135.65625,
+        "peak_memory": 3509.95703125,
+        "len": 68342
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.928955316543579,
+        "memory_used": 2159.1796875,
+        "peak_memory": 3549.12890625,
+        "len": 69095
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.991628646850586,
+        "memory_used": 2181.953125,
+        "peak_memory": 3587.36328125,
+        "len": 69824
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 4.877298355102539,
+        "memory_used": 2204.8046875,
+        "peak_memory": 3625.69140625,
+        "len": 70555
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.0063207149505615,
+        "memory_used": 2227.3046875,
+        "peak_memory": 3663.58203125,
+        "len": 71275
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.027631998062134,
+        "memory_used": 2250.78125,
+        "peak_memory": 3702.69140625,
+        "len": 72026
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.087254762649536,
+        "memory_used": 2272.90625,
+        "peak_memory": 3740.11328125,
+        "len": 72734
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.134753704071045,
+        "memory_used": 2296.03125,
+        "peak_memory": 3778.78515625,
+        "len": 73474
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.3537726402282715,
+        "memory_used": 2318.328125,
+        "peak_memory": 3816.42578125,
+        "len": 74188
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.343810558319092,
+        "memory_used": 2340.8046875,
+        "peak_memory": 3854.28515625,
+        "len": 74907
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.403979539871216,
+        "memory_used": 2363.03125,
+        "peak_memory": 3891.83203125,
+        "len": 75618
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.366912364959717,
+        "memory_used": 2385.90625,
+        "peak_memory": 3930.19140625,
+        "len": 76350
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.35365104675293,
+        "memory_used": 2408.3046875,
+        "peak_memory": 3967.95703125,
+        "len": 77067
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.503942489624023,
+        "memory_used": 2430.53125,
+        "peak_memory": 4005.50390625,
+        "len": 77778
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.800847768783569,
+        "memory_used": 2453.03125,
+        "peak_memory": 4043.39453125,
+        "len": 78498
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.744048118591309,
+        "memory_used": 2476.5546875,
+        "peak_memory": 4082.56640625,
+        "len": 79251
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.801486492156982,
+        "memory_used": 2499.0546875,
+        "peak_memory": 4120.45703125,
+        "len": 79971
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.710942029953003,
+        "memory_used": 2521.90625,
+        "peak_memory": 4158.78515625,
+        "len": 80702
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.67724609375,
+        "memory_used": 2543.8046875,
+        "peak_memory": 4195.92578125,
+        "len": 81403
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.876567363739014,
+        "memory_used": 2566.65625,
+        "peak_memory": 4234.25390625,
+        "len": 82134
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.875915288925171,
+        "memory_used": 2588.453125,
+        "peak_memory": 4271.26953125,
+        "len": 82832
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.084908485412598,
+        "memory_used": 2610.828125,
+        "peak_memory": 4309.00390625,
+        "len": 83548
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 5.986156225204468,
+        "memory_used": 2633.40625,
+        "peak_memory": 4346.98828125,
+        "len": 84270
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.061546564102173,
+        "memory_used": 2655.453125,
+        "peak_memory": 4384.31640625,
+        "len": 84976
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.091120004653931,
+        "memory_used": 2678.53125,
+        "peak_memory": 4422.92578125,
+        "len": 85714
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.281923294067383,
+        "memory_used": 2701.53125,
+        "peak_memory": 4461.44140625,
+        "len": 86450
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.280976057052612,
+        "memory_used": 2723.9296875,
+        "peak_memory": 4499.20703125,
+        "len": 87167
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.286045551300049,
+        "memory_used": 2746.328125,
+        "peak_memory": 4536.97265625,
+        "len": 87884
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.3690009117126465,
+        "memory_used": 2768.78125,
+        "peak_memory": 4574.80078125,
+        "len": 88602
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.421628713607788,
+        "memory_used": 2790.65625,
+        "peak_memory": 4611.91015625,
+        "len": 89302
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.611755132675171,
+        "memory_used": 2813.40625,
+        "peak_memory": 4650.11328125,
+        "len": 90030
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.614570617675781,
+        "memory_used": 2836.328125,
+        "peak_memory": 4688.53515625,
+        "len": 90764
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.59348464012146,
+        "memory_used": 2859.03125,
+        "peak_memory": 4726.67578125,
+        "len": 91490
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.92305064201355,
+        "memory_used": 2882.0078125,
+        "peak_memory": 4765.16015625,
+        "len": 92225
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.779331207275391,
+        "memory_used": 2904.28125,
+        "peak_memory": 4802.76953125,
+        "len": 92938
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.0113067626953125,
+        "memory_used": 2925.40625,
+        "peak_memory": 4838.94140625,
+        "len": 93614
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.901313781738281,
+        "memory_used": 2948.65625,
+        "peak_memory": 4877.76953125,
+        "len": 94358
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.85205602645874,
+        "memory_used": 2970.3046875,
+        "peak_memory": 4914.59765625,
+        "len": 95051
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.945452690124512,
+        "memory_used": 2992.0078125,
+        "peak_memory": 4951.48828125,
+        "len": 95745
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 6.984189510345459,
+        "memory_used": 3014.6328125,
+        "peak_memory": 4989.53515625,
+        "len": 96469
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.150684118270874,
+        "memory_used": 3036.90625,
+        "peak_memory": 5027.14453125,
+        "len": 97182
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.107776641845703,
+        "memory_used": 3059.3828125,
+        "peak_memory": 5065.00390625,
+        "len": 97901
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.11547064781189,
+        "memory_used": 3081.53125,
+        "peak_memory": 5102.45703125,
+        "len": 98610
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.244174957275391,
+        "memory_used": 3104.078125,
+        "peak_memory": 5140.41015625,
+        "len": 99332
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.438953638076782,
+        "memory_used": 3125.6328125,
+        "peak_memory": 5177.11328125,
+        "len": 100021
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.368830919265747,
+        "memory_used": 3147.78125,
+        "peak_memory": 5214.56640625,
+        "len": 100730
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.32706880569458,
+        "memory_used": 3169.7578125,
+        "peak_memory": 5251.80078125,
+        "len": 101433
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.479595422744751,
+        "memory_used": 3192.0546875,
+        "peak_memory": 5289.44140625,
+        "len": 102147
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.43536901473999,
+        "memory_used": 3214.078125,
+        "peak_memory": 5326.73828125,
+        "len": 102852
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.568526983261108,
+        "memory_used": 3235.7578125,
+        "peak_memory": 5363.59765625,
+        "len": 103545
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.517257928848267,
+        "memory_used": 3258.03125,
+        "peak_memory": 5401.20703125,
+        "len": 104258
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.553337097167969,
+        "memory_used": 3280.1796875,
+        "peak_memory": 5438.66015625,
+        "len": 104967
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.862893104553223,
+        "memory_used": 3302.78125,
+        "peak_memory": 5476.67578125,
+        "len": 105690
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.749561548233032,
+        "memory_used": 3324.5078125,
+        "peak_memory": 5513.59765625,
+        "len": 106385
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.984942436218262,
+        "memory_used": 3347.65625,
+        "peak_memory": 5552.30078125,
+        "len": 107126
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.969430685043335,
+        "memory_used": 3368.8828125,
+        "peak_memory": 5588.59765625,
+        "len": 107805
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 7.835710763931274,
+        "memory_used": 3390.1796875,
+        "peak_memory": 5624.98828125,
+        "len": 108487
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.075897693634033,
+        "memory_used": 3412.6328125,
+        "peak_memory": 5662.81640625,
+        "len": 109205
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.157236814498901,
+        "memory_used": 3435.203125,
+        "peak_memory": 5700.80078125,
+        "len": 109928
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.023489236831665,
+        "memory_used": 3457.15625,
+        "peak_memory": 5738.00390625,
+        "len": 110630
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.351646900177002,
+        "memory_used": 3479.0546875,
+        "peak_memory": 5775.14453125,
+        "len": 111331
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.300138235092163,
+        "memory_used": 3501.4296875,
+        "peak_memory": 5812.87890625,
+        "len": 112047
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.408344268798828,
+        "memory_used": 3523.5078125,
+        "peak_memory": 5850.23828125,
+        "len": 112753
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.462161779403687,
+        "memory_used": 3545.53125,
+        "peak_memory": 5887.53515625,
+        "len": 113458
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.271802186965942,
+        "memory_used": 3567.3046875,
+        "peak_memory": 5924.51953125,
+        "len": 114155
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.724366903305054,
+        "memory_used": 3590.15625,
+        "peak_memory": 5962.84765625,
+        "len": 114886
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.437186241149902,
+        "memory_used": 3612.078125,
+        "peak_memory": 6000.01953125,
+        "len": 115588
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.584280490875244,
+        "memory_used": 3633.6796875,
+        "peak_memory": 6036.78515625,
+        "len": 116279
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.836104154586792,
+        "memory_used": 3655.1328125,
+        "peak_memory": 6073.36328125,
+        "len": 116965
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.658815622329712,
+        "memory_used": 3676.9296875,
+        "peak_memory": 6110.37890625,
+        "len": 117663
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.60585069656372,
+        "memory_used": 3699.203125,
+        "peak_memory": 6147.98828125,
+        "len": 118376
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.635048389434814,
+        "memory_used": 3720.5078125,
+        "peak_memory": 6184.37890625,
+        "len": 119057
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.73577618598938,
+        "memory_used": 3742.40625,
+        "peak_memory": 6221.51953125,
+        "len": 119758
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.76729154586792,
+        "memory_used": 3764.0546875,
+        "peak_memory": 6258.34765625,
+        "len": 120451
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.825411081314087,
+        "memory_used": 3785.1796875,
+        "peak_memory": 6294.51953125,
+        "len": 121127
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.2936692237854,
+        "memory_used": 3807.65625,
+        "peak_memory": 6332.37890625,
+        "len": 121846
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 8.990748405456543,
+        "memory_used": 3829.3828125,
+        "peak_memory": 6369.30078125,
+        "len": 122541
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.129867553710938,
+        "memory_used": 3851.53125,
+        "peak_memory": 6406.75390625,
+        "len": 123250
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.045470476150513,
+        "memory_used": 3873.15625,
+        "peak_memory": 6443.55078125,
+        "len": 123942
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.161711931228638,
+        "memory_used": 3894.8046875,
+        "peak_memory": 6480.37890625,
+        "len": 124635
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.219534873962402,
+        "memory_used": 3916.6796875,
+        "peak_memory": 6517.48828125,
+        "len": 125335
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.429722785949707,
+        "memory_used": 3939.0546875,
+        "peak_memory": 6555.22265625,
+        "len": 126051
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.619876146316528,
+        "memory_used": 3961.0078125,
+        "peak_memory": 6592.42578125,
+        "len": 126753
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.453500032424927,
+        "memory_used": 3982.078125,
+        "peak_memory": 6628.53515625,
+        "len": 127428
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.456672668457031,
+        "memory_used": 4004.3828125,
+        "peak_memory": 6666.17578125,
+        "len": 128141
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.585702657699585,
+        "memory_used": 4026.1328125,
+        "peak_memory": 6703.12890625,
+        "len": 128837
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.495275974273682,
+        "memory_used": 4047.53125,
+        "peak_memory": 6739.64453125,
+        "len": 129522
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.60557222366333,
+        "memory_used": 4069.1328125,
+        "peak_memory": 6776.41015625,
+        "len": 130213
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.898138761520386,
+        "memory_used": 4090.65625,
+        "peak_memory": 6813.08203125,
+        "len": 130902
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.8357515335083,
+        "memory_used": 4112.703125,
+        "peak_memory": 6850.41015625,
+        "len": 131608
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.802865028381348,
+        "memory_used": 4134.078125,
+        "peak_memory": 6886.89453125,
+        "len": 132292
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.845171928405762,
+        "memory_used": 4155.328125,
+        "peak_memory": 6923.22265625,
+        "len": 132972
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 9.92056679725647,
+        "memory_used": 4177.203125,
+        "peak_memory": 6960.33203125,
+        "len": 133672
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.15780234336853,
+        "memory_used": 4198.6796875,
+        "peak_memory": 6996.94140625,
+        "len": 134359
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.211714744567871,
+        "memory_used": 4220.953125,
+        "peak_memory": 7034.55078125,
+        "len": 135072
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.395172834396362,
+        "memory_used": 4243.0078125,
+        "peak_memory": 7071.87890625,
+        "len": 135777
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.12684941291809,
+        "memory_used": 4263.953125,
+        "peak_memory": 7107.83203125,
+        "len": 136448
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.187542200088501,
+        "memory_used": 4286.40625,
+        "peak_memory": 7145.66015625,
+        "len": 137166
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.369311571121216,
+        "memory_used": 4307.5078125,
+        "peak_memory": 7181.80078125,
+        "len": 137841
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.364837169647217,
+        "memory_used": 4329.40625,
+        "peak_memory": 7218.94140625,
+        "len": 138542
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.437228918075562,
+        "memory_used": 4351.5078125,
+        "peak_memory": 7256.33203125,
+        "len": 139249
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.936043739318848,
+        "memory_used": 4373.453125,
+        "peak_memory": 7293.53515625,
+        "len": 139952
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.434875011444092,
+        "memory_used": 4395.0078125,
+        "peak_memory": 7330.23828125,
+        "len": 140641
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.600624561309814,
+        "memory_used": 4416.78125,
+        "peak_memory": 7367.22265625,
+        "len": 141338
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.621513605117798,
+        "memory_used": 4438.3828125,
+        "peak_memory": 7403.98828125,
+        "len": 142029
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.67263650894165,
+        "memory_used": 4459.90625,
+        "peak_memory": 7440.66015625,
+        "len": 142718
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.554262638092041,
+        "memory_used": 4481.6796875,
+        "peak_memory": 7477.64453125,
+        "len": 143415
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.050348281860352,
+        "memory_used": 4503.8828125,
+        "peak_memory": 7515.16015625,
+        "len": 144125
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.812134027481079,
+        "memory_used": 4525.28125,
+        "peak_memory": 7551.67578125,
+        "len": 144810
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 10.961976528167725,
+        "memory_used": 4546.90625,
+        "peak_memory": 7588.47265625,
+        "len": 145502
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.064008235931396,
+        "memory_used": 4568.28125,
+        "peak_memory": 7624.95703125,
+        "len": 146186
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.124290466308594,
+        "memory_used": 4589.3046875,
+        "peak_memory": 7661.00390625,
+        "len": 146859
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.155690908432007,
+        "memory_used": 4610.2578125,
+        "peak_memory": 7696.95703125,
+        "len": 147529
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.453275918960571,
+        "memory_used": 4631.8046875,
+        "peak_memory": 7733.66015625,
+        "len": 148219
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.122682571411133,
+        "memory_used": 4654.1328125,
+        "peak_memory": 7771.33203125,
+        "len": 148933
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.201856851577759,
+        "memory_used": 4676.15625,
+        "peak_memory": 7808.62890625,
+        "len": 149638
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.213541746139526,
+        "memory_used": 4697.7578125,
+        "peak_memory": 7845.39453125,
+        "len": 150329
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.21439790725708,
+        "memory_used": 4719.3828125,
+        "peak_memory": 7882.19140625,
+        "len": 151021
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.585189580917358,
+        "memory_used": 4740.9296875,
+        "peak_memory": 7918.89453125,
+        "len": 151711
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.35652232170105,
+        "memory_used": 4761.90625,
+        "peak_memory": 7954.87890625,
+        "len": 152382
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.508450746536255,
+        "memory_used": 4783.65625,
+        "peak_memory": 7991.83203125,
+        "len": 153078
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.66392707824707,
+        "memory_used": 4805.328125,
+        "peak_memory": 8028.69140625,
+        "len": 153772
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.51387643814087,
+        "memory_used": 4826.3828125,
+        "peak_memory": 8064.76953125,
+        "len": 154445
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.554692268371582,
+        "memory_used": 4847.8046875,
+        "peak_memory": 8101.31640625,
+        "len": 155131
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.871309280395508,
+        "memory_used": 4868.90625,
+        "peak_memory": 8137.45703125,
+        "len": 155806
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.765546083450317,
+        "memory_used": 4890.7578125,
+        "peak_memory": 8174.53515625,
+        "len": 156505
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.744780778884888,
+        "memory_used": 4912.0546875,
+        "peak_memory": 8210.92578125,
+        "len": 157187
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.76768159866333,
+        "memory_used": 4933.8828125,
+        "peak_memory": 8247.97265625,
+        "len": 157885
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 11.722705125808716,
+        "memory_used": 4954.90625,
+        "peak_memory": 8284.01953125,
+        "len": 158558
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.171708822250366,
+        "memory_used": 4976.53125,
+        "peak_memory": 8320.81640625,
+        "len": 159250
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.03381085395813,
+        "memory_used": 4998.8046875,
+        "peak_memory": 8358.42578125,
+        "len": 159963
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.404343843460083,
+        "memory_used": 5019.6328125,
+        "peak_memory": 8394.22265625,
+        "len": 160629
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.37397050857544,
+        "memory_used": 5041.1796875,
+        "peak_memory": 8430.92578125,
+        "len": 161319
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.587610244750977,
+        "memory_used": 5062.40625,
+        "peak_memory": 8467.22265625,
+        "len": 161998
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.665316581726074,
+        "memory_used": 5083.15625,
+        "peak_memory": 8502.92578125,
+        "len": 162662
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.230873346328735,
+        "memory_used": 5105.0546875,
+        "peak_memory": 8540.06640625,
+        "len": 163363
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.472583055496216,
+        "memory_used": 5125.6796875,
+        "peak_memory": 8575.61328125,
+        "len": 164023
+    },
+    {
+        "function": "sieve_of_atkin_python",
+        "execution_time": 12.621063232421875,
+        "memory_used": 5147.4296875,
+        "peak_memory": 8612.56640625,
+        "len": 164719
+    }
+]
